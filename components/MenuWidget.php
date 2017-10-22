@@ -35,6 +35,8 @@ class MenuWidget extends Widget{
             if($menu) return $menu;
         }
 
+
+
         $this->data = Category::find()->indexBy('id')->asArray()->all();
         $this->tree = $this->getTree();
         $this->menuHtml = $this->getMenuHtml($this->tree);
@@ -70,4 +72,4 @@ class MenuWidget extends Widget{
         return ob_get_clean();
     }
 
-} 
+}
