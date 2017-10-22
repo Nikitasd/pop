@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - yii2_loc@localhost" uuid="fe87dba5-b603-4e26-b622-3eb9b94b5f6e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>yii2_loc.*</schema-pattern>
+      <default-schemas>yii2_loc.*</default-schemas>
+    </data-source>
+  </component>
+</project>
