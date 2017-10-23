@@ -100,8 +100,8 @@
       <file leaf-file-name="MenuWidget.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/MenuWidget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="821">
-              <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+            <state relative-caret-position="251">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
               <folding>
                 <element signature="e#7#88#0#PHP" expanded="true" />
                 <element signature="e#116#136#0#PHP" expanded="true" />
@@ -182,9 +182,9 @@
         <option value="$PROJECT_DIR$/modules/admin/views/category/index.php" />
         <option value="$PROJECT_DIR$/modules/admin/views/category/_form.php" />
         <option value="$PROJECT_DIR$/modules/admin/views/product/_form.php" />
-        <option value="$PROJECT_DIR$/components/MenuWidget.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/../../xamppfiles/htdocs/oop/test.php" />
+        <option value="$PROJECT_DIR$/components/MenuWidget.php" />
       </list>
     </option>
   </component>
@@ -324,12 +324,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507740667175</updated>
       <workItem from="1507740668352" duration="49952000" />
-      <workItem from="1508702393912" duration="151000" />
+      <workItem from="1508702393912" duration="514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50103000" />
+    <option name="totallyTimeSpent" value="50466000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -917,8 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/MenuWidget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        <state relative-caret-position="251">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding>
             <element signature="e#7#88#0#PHP" expanded="true" />
             <element signature="e#116#136#0#PHP" expanded="true" />
