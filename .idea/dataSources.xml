@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3181623071">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="MySQL - yii2_loc@localhost" uuid="fe87dba5-b603-4e26-b622-3eb9b94b5f6e">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>

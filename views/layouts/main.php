@@ -146,6 +146,7 @@ ltAppAsset::register($this);
                 <div class="col-sm-3">
                     <div class="search_box pull-right">
                         <form method="get" action="<?=\yii\helpers\Url::to(['category/search'])?>">
+                            <input type="hidden" name="r" type="text" value="category/search"/>
                             <input name="q" type="text" placeholder="Search"/>
                         </form>
                     </div>
@@ -320,7 +321,7 @@ ltAppAsset::register($this);
         'id'=> 'cart',
         'size'=> 'modal-lg',
         'footer' => '<button type="button" class="btn btn-default" data-dismiss="modal">Продолжить покупки</button>
-                              <a href="'.\yii\helpers\Url::to(['cart/view']).'" class="btn btn-success" data-dismiss="modal">Оформить заказ</a>
+                              <a href="'.\yii\helpers\Url::to(['cart/view']).'" class="btn btn-success">Оформить заказ</a>
                               <button type="button" class="btn btn-danger" onclick="clearCart()" data-dismiss="modal">Очистить корзину</button>',
     ]);
 
